@@ -1,2 +1,0 @@
-from random import randint
-from tasks import input_lst_temperature, output_temperature_lst
